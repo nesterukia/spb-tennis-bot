@@ -1,0 +1,10 @@
+INSERT ALL
+INTO "C##NESTERUKIA"."PLAYER" (ID, FIRST_NAME, LAST_NAME, GENDER) VALUES ('1', 'Марат', 'Сафин', 'М')
+INTO "C##NESTERUKIA"."PLAYER" (ID, FIRST_NAME, LAST_NAME, GENDER) VALUES ('2', 'Рафаэль', 'Надаль', 'М')
+INTO "C##NESTERUKIA"."PLAYER" (ID, FIRST_NAME, LAST_NAME, GENDER) VALUES ('3', 'Новак', 'Джокович', 'М')
+INTO "C##NESTERUKIA"."PLAYER" (ID, FIRST_NAME, LAST_NAME, GENDER) VALUES ('4', 'Роджер', 'Федерер', 'М')
+INTO "C##NESTERUKIA"."PLAYER" (ID, FIRST_NAME, LAST_NAME, GENDER) VALUES ('5', 'Мария', 'Шарапова', 'Ж')
+INTO "C##NESTERUKIA"."PLAYER" (ID, FIRST_NAME, LAST_NAME, GENDER) VALUES ('6', 'Серена', 'Уильямс', 'Ж')
+INTO "C##NESTERUKIA"."PLAYER" (ID, FIRST_NAME, LAST_NAME, GENDER) VALUES ('7', 'Ига', 'Швентек', 'Ж')
+INTO "C##NESTERUKIA"."PLAYER" (ID, FIRST_NAME, LAST_NAME, GENDER) VALUES ('8', 'Александрина', 'Даздраствуйпетова', 'Ж')
+SELECT 1 FROM DUAL
